@@ -1,4 +1,4 @@
-Este proyecto es un sistema que gestiona vehículos utilizando una capa de acceso a datos persistente.
+##Este proyecto es un sistema que gestiona vehículos utilizando una capa de acceso a datos persistente.
 Permite manejar la información de los vehículos de forma flexible, con soporte para diferentes métodos de almacenamiento como memoria, archivos de texto, archivos binarios y archivos JSON.
 
 El acceso a los datos se maneja mediante una interfaz común que facilita el cambio entre diferentes métodos de persistencia sin alterar el resto de la aplicación.
